@@ -8,3 +8,5 @@ Learned to:
 + Make ordered and unordered lists
 
 Very cool! (^-^)
+
+(Kairi magbalik ka na ta maabutan na taka </3)
