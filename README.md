@@ -6,6 +6,10 @@ Learned to:
 + Add images
 + Distinguish between absolute and relative links
 + Make ordered and unordered lists
++ Basic properties
++ Selector types and groupings
++ Adding CSS to HTML (exernal, internal, inline)
++ Cascading (rules of specificity and such, yk, the works)
 
 Very cool! (^-^)
 
