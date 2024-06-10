@@ -12,14 +12,25 @@ body {
 
 h1.title {
     font-weight: bold;
-    color: #413D3A;
+    color: #403D3A;
+    background-color: #DAFEB7; /* ugly color */ 
+}
+
+p,
+li {
+    color: #4B4744;
+}
+
+hr {
+    height: 1px;
+    background-color: #7C975E;
+    margin-top: 30px;
 }
 
 
 /* main/home page */
 #odin-recipes {
     text-align: center;
-    background-color: #DAFEB7; /* ugly color */ 
 }
 
 div.menu {
@@ -27,13 +38,26 @@ div.menu {
     padding-left: 350px;
 }
 
-.menu.list a{
+.menu.list a {
     color: #605B56;
 }
 
 
 /* recipe pages */
 
-.dish.title {
-    color
+.dish-image {
+    height: auto;
+    width: 400px;
+}
+
+.description.header {
+    font-size: x-large;
+}
+
+.header {
+    color: #41502A;
+}
+
+.sub.header{
+    color: #7C975E;
 }
