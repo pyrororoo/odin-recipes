@@ -9,4 +9,6 @@ Learned to:
 
 Very cool! (^-^)
 
-(Kairi magbalik ka na ta maabutan na taka </3 kidding, take all the time you need)
+
+
+Also: Kairi magbalik ka na ta maabutan na taka! (jk)
