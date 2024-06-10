@@ -33,18 +33,17 @@ hr {
     text-align: center;
 }
 
-div.menu {
+.menu-list {
     font-size: large;
-    padding-left: 350px;
+    margin-left: 350px;
 }
 
-.menu.list a {
+.menu-list a {
     color: #605B56;
 }
 
 
 /* recipe pages */
-
 .dish-image {
     height: auto;
     width: 400px;
