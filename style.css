@@ -1,6 +1,39 @@
 /* css stylesheet */
 
-body {
-    font-family: Helvetica, sans-serif;
+
+/* global */
+* {
+    background-color: #F2FBE0;
 }
 
+body {
+    font-family: "Times New Roman", cursive;
+}
+
+h1.title {
+    font-weight: bold;
+    color: #413D3A;
+}
+
+
+/* main/home page */
+#odin-recipes {
+    text-align: center;
+    background-color: #DAFEB7; /* ugly color */ 
+}
+
+div.menu {
+    font-size: large;
+    padding-left: 350px;
+}
+
+.menu.list a{
+    color: #605B56;
+}
+
+
+/* recipe pages */
+
+.dish.title {
+    color
+}
