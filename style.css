@@ -6,23 +6,26 @@
 body {
     font-family: "Times New Roman", cursive;
     background-color: #F2FBE0;
+    margin: 50px 20%;
 }
 
 h1.title {
+    text-align: center;
     font-weight: bold;
     color: #403D3A;
-    background-color: #DAFEB7; /* ugly color */ 
 }
 
 p,
-li {
+ul,
+ol {
     color: #4B4744;
+    margin: 10px;
 }
 
 hr {
     height: 1px;
     background-color: #7C975E;
-    margin: 8px;
+    margin: 30px 10px;
 }
 
 
@@ -36,10 +39,10 @@ border-radius: 10px;
 }
 
 #odin-recipes {
-    text-align: center;
     padding: 8px;
     margin-top: 0px;
     border-radius: 50px;
+    background-color: #DAFEB7;
 }
 
 .menu-list {
@@ -55,9 +58,20 @@ border-radius: 10px;
 
 
 /* recipe pages */
+
+.dish {
+    color: #7C975E;
+    padding: 8px 24px;
+    margin: 8px 30%;
+    border-radius: 50px;
+}
+
 .dish-image {
     height: auto;
-    width: 400px;
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .description.header {
@@ -66,8 +80,27 @@ border-radius: 10px;
 
 .header {
     color: #41502A;
+    margin: 10px;
 }
 
-.sub.header{
+.sub-header{
     color: #7C975E;
+    margin-top: 0px;   
+}
+
+.block {
+    display: inline-block;
+    margin: 10px;
+    background-color: white;
+    padding: 8px 24px;
+    border-radius: 30px;
+}
+
+.sub-header-1{
+    vertical-align: top;
+    padding-bottom: 45px;
+}
+
+.header.steps{
+    margin-top: 30px;
 }
