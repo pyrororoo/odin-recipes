@@ -2,12 +2,10 @@
 
 
 /* global */
-* {
-    background-color: #F2FBE0;
-}
 
 body {
     font-family: "Times New Roman", cursive;
+    background-color: #F2FBE0;
 }
 
 h1.title {
@@ -24,22 +22,35 @@ li {
 hr {
     height: 1px;
     background-color: #7C975E;
-    margin-top: 30px;
+    margin: 8px;
 }
 
 
 /* main/home page */
+
+.card {
+margin: 8px 300px;
+background-color: white;
+padding: 8px;
+border-radius: 10px;
+}
+
 #odin-recipes {
     text-align: center;
+    padding: 8px;
+    margin-top: 0px;
+    border-radius: 50px;
 }
 
 .menu-list {
     font-size: large;
-    margin-left: 350px;
+    background-color: white;
 }
 
 .menu-list a {
     color: #605B56;
+    background-color: white;
+    display: block
 }
 
 
