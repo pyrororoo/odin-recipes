@@ -6,7 +6,7 @@
 body {
     font-family: "Times New Roman", cursive;
     background-color: #F2FBE0;
-    margin: 50px 20%;
+    margin: 50px 10%;
 }
 
 h1.title {
@@ -32,7 +32,7 @@ hr {
 /* main/home page */
 
 .card {
-margin: 8px 300px;
+margin: 8px 30%;
 background-color: white;
 padding: 30px;
 border-radius: 10px;
