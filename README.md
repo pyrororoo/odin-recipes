@@ -10,7 +10,8 @@ Learned to:
 + Selector types and groupings
 + Adding CSS to HTML (exernal, internal, inline)
 + Cascading (rules of specificity and such, yk, the works)
-
++ Flexboxes :D
+  
 Very cool! (^-^)
 
 
